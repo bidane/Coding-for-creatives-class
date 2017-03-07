@@ -18,6 +18,8 @@ function setup () {
 	}
 }
 
+}
+
 function draw () {
 	background(255, 255, 255); 
 	for(i= 0 ; i < balls.length; i++){
